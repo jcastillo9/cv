@@ -1,0 +1,8 @@
+[1015/180119.879:ERROR:process_info.cc(359)] UncheckedAllocate
+[1015/180120.024:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\jcs656\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\d7b41892-b274-4684-80ed-b9c223c22e4e: The system cannot find the path specified. (0x3)
+[1018/152744.134:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\jcs656\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\29c5c9a3-96fd-49a8-b599-3131cf2683d9: The system cannot find the path specified. (0x3)
+[1018/152744.150:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1018/161039.582:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1018/162410.050:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1019/162410.278:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1020/162657.540:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
